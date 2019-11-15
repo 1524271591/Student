@@ -5,9 +5,7 @@ public class Student {
     private int    age;
     private int   xuehao;
     private double fenshu;
-    public Student(){
 
-    }
     public Student(String n,int a,int x,double f){
         name=n;
         age=a;
